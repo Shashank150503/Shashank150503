@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shashank-kumar-9ab383231/">
+  <a href="https://www.linkedin.com/in/shashank-singh-9ab383231/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:shanshank1505kumar@gmail.com">
@@ -116,7 +116,7 @@ Secure ATM app with PIN authentication, encrypted passwords, and ACID-compliant 
 
 I'm open to **full-time roles** and **freelance projects** in Java, Spring Boot, and full-stack development.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shashank-kumar-9ab383231/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shashank-singh-9ab383231/)
 - ✉️ shanshank1505kumar@gmail.com
 
 <p align="center"><i>⭐ If you like any of my projects, a star goes a long way!</i></p>
